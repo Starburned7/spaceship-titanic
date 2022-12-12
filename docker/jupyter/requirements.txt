@@ -1,2 +1,7 @@
 psycopg2-binary
 catboost
+pandas
+numpy 
+seaborn
+matplotlib.pyplot
+plotly.express
