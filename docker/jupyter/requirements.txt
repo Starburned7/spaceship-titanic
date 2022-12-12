@@ -1,7 +1,7 @@
-psycopg2-binary
-catboost
+#psycopg2-binary
+#catboost
 pandas
 numpy 
 seaborn
-matplotlib.pyplot
+#matplotlib.pyplot
 plotly.express
